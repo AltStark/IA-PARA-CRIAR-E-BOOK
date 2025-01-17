@@ -4,9 +4,9 @@ INCLUIR NO GIT HUB: Projeto EBOOK Gerado por I.A.s
 
 💻 Tecnologias utilizadas no projeto
 
-ChatGPT
-Copilot
-PowerPoint
+ChatGPT,
+Copilot,
+PowerPoint,
 🧠 Prompts
 
 ChatGPT：
